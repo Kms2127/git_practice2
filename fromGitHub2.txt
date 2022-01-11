@@ -1,0 +1,1 @@
+This file shows how to get a file from Github and pull in local repository
